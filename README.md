@@ -1,2 +1,4 @@
 # bootcomp-gostack-9.0
-©Copyright rocketseat.com.br
+
+[![Author: @rocketseat](https://img.shields.io/badge/author-@rocketseat-purple.svg?style=flat)](https://twitter.com/rocketseat)
+### ©Copyright rocketseat.com.br
